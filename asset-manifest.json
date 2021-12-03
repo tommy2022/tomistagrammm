@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/tomistagram/static/js/main.5d43fb57.chunk.js",
+    "main.js.map": "/tomistagram/static/js/main.5d43fb57.chunk.js.map",
+    "runtime-main.js": "/tomistagram/static/js/runtime-main.0593534e.js",
+    "runtime-main.js.map": "/tomistagram/static/js/runtime-main.0593534e.js.map",
+    "static/js/2.1b843573.chunk.js": "/tomistagram/static/js/2.1b843573.chunk.js",
+    "static/js/2.1b843573.chunk.js.map": "/tomistagram/static/js/2.1b843573.chunk.js.map",
+    "index.html": "/tomistagram/index.html",
+    "static/js/2.1b843573.chunk.js.LICENSE.txt": "/tomistagram/static/js/2.1b843573.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0593534e.js",
+    "static/js/2.1b843573.chunk.js",
+    "static/js/main.5d43fb57.chunk.js"
+  ]
+}
